@@ -38,21 +38,13 @@ myntra-clone/
  |       └── allimages/ 
  ├── README.md
 ```
-
-## 📸 Screenshots
-
-
-
-
-
-
 ## ⚙️ Installation
 
 1. Clone the repository
 
-```bash
+
 git clone https://mohduvais591-cloud.github.io/Myntra-clone/
-```
+
 
 2. Navigate to the project directory
 
