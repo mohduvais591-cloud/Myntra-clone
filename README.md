@@ -51,7 +51,7 @@ myntra-clone/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/myntra-clone.git
+git clone http://127.0.0.1:5500/Projects/Myntra%20clone/index.html
 ```
 
 2. Navigate to the project directory
