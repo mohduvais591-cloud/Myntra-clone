@@ -25,14 +25,14 @@ A modern and responsive fashion e-commerce web application inspired by Myntra. T
 ```text
 myntra-clone/
  │
- ├── HomePage/
- |       ├── index.html 
- |       ├── index.css 
- |       └── index.js 
- ├── BagSection/ 
- |       ├── index.html 
- |       ├── index.css 
- |       └── index.js
+ ├── index.html 
+ ├── index.css 
+ └── index.js 
+ |
+ ├── bags/ 
+ |     ├── index.html 
+ |     ├── index.css 
+ |     └── index.js
  |        
  ├── images/ 
  |       └── allimages/ 
