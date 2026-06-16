@@ -30,9 +30,9 @@ myntra-clone/
  └── index.js 
  |
  ├── bags/ 
- |     ├── index.html 
- |     ├── index.css 
- |     └── index.js
+ |     ├── bag.html 
+ |     ├── bag.css 
+ |     └── bag.js
  |        
  ├── images/ 
  |       └── allimages/ 
